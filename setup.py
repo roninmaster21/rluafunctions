@@ -14,5 +14,5 @@ setuptools.setup(
     url='https://github.com/roninmaster21/rfunctions',
     project_urls = {},
     license='MIT',
-    packages=['rfunctios'],
+    packages=['rfunctions'],
 )
