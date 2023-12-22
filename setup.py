@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='rfunctions',
-    version='0.0.2',
+    version='0.0.0',
     author='roninmaster21',
     author_email='',
     description='Use common rlua functions and libraries in Python',
