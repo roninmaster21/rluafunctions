@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='rfunctios',
-    version='0.0.0',
+    name='rfunctions',
+    version='0.0.5',
     author='roninmaster21',
     author_email='',
     description='Use common rlua functions and libraries in Python',
@@ -14,5 +14,5 @@ setuptools.setup(
     url='https://github.com/roninmaster21/rfunctions',
     project_urls = {},
     license='MIT',
-    packages=['rfunctions'],
+    packages=['rfunctios'],
 )
