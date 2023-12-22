@@ -15,5 +15,4 @@ setuptools.setup(
     project_urls = {},
     license='MIT',
     packages=['rfunctions'],
-    install_requires=['requests'],
 )
