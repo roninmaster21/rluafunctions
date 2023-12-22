@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='rfunctions',
-    version='0.0.5',
+    version='0.0.2',
     author='roninmaster21',
     author_email='',
     description='Use common rlua functions and libraries in Python',
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/roninmaster21/rfunctions',
-    project_urls = {},
+    project_urls = {"Bug Tracker":'https://github.com/roninmaster21/rfunctions'},
     license='MIT',
     packages=['rfunctions'],
 )
