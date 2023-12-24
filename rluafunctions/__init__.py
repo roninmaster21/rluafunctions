@@ -1,2 +1,2 @@
-from . import ostime
+from . import os
 from . import task
