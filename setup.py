@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='rfunctions',
+    name='rluafunctions',
     version='0.0.2',
     author='roninmaster21',
     author_email='',
