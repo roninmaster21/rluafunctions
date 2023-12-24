@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/roninmaster21/rluafunctions',
-    project_urls = {"Bug Tracker":'https://github.com/roninmaster21/rluafunctions'},
+    project_urls = {"Bug Tracker":'https://github.com/roninmaster21/rluafunctions/issues'},
     license='MIT',
     packages=setuptools.find_packages(),
 )
