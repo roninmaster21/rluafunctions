@@ -14,5 +14,5 @@ setuptools.setup(
     url='https://github.com/roninmaster21/rluafunctions',
     project_urls = {"Bug Tracker":'https://github.com/roninmaster21/rluafunctions'},
     license='MIT',
-    packages=['rluafunctions'],
+    packages=setuptools.find_packages(),
 )
