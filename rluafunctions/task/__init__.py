@@ -3,10 +3,10 @@
 import threading
 import time
 
-def wait(amnt):
+def wait(amnt = 0.01):
     time.sleep(amnt)
 
-def waitms(amnt):
+def waitms(amnt = 10):
     time.sleep(amnt / 1000)
 
 def spawn(func, daemon = True, args = tuple()):
