@@ -5,7 +5,7 @@ import time
 def tick():
     return time.time()
 
-def difftime(t_0,t_1):
+def difftime(t_0 = 0,t_1 = 0):
     return t_0 - t_1
 
 def date(format = "%a %b %d %H:%M:%S %Y"):
