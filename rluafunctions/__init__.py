@@ -1,2 +1,2 @@
-import ostime
-import task
+import .ostime
+import .task
