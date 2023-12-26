@@ -1,6 +1,8 @@
 # rluafunctions
 Package that contains recreated versions of some rlua libraries
 # Installation
+### View on PyPi
+https://pypi.org/project/rluafunctions/
 ### Install on Windows
 ```
 py -m pip install rluafunctions
